@@ -11,8 +11,6 @@
 
 ### Algemeen
 
-1. Of er een Done category moet zijn? Ja.
-
 ### Brussels Airlines
 
 1. Moet de data naar JSON van alle bestemmingen en data in 1 JSON-file of mogen die apart per bestemming? -> In Orde moet geen Json
